@@ -1,4 +1,5 @@
 # Altium_ESP_Library
+Autor: avbazurt@espol.edu.ec
 
 # Conectores:
 * Borneras (3-4)
